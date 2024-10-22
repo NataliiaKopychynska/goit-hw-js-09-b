@@ -1,5 +1,3 @@
-import SimpleLightbox from 'simplelightbox';
-
 const formData = { email: '', message: '' };
 const form = document.querySelector('.feedback-form'); // Переконайтеся, що це правильно
 const STORAGE_KEY = 'feedback-form-state';
